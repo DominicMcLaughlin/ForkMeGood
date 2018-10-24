@@ -35,4 +35,18 @@ public class ForkMeGood {
          }, 0, 15000);
     }
     
+    public static void sans()
+    {
+    System.out.println("sans undertale is really great");
+    System.out.println("░░░░░░░░░░░░░░░░░░░░░░░");
+    System.out.println("░░░░░▄▄▀▀▀▀▀▀▀▀▀▄▄░░░░░");
+    System.out.println("░░░░█░░░░░░░░░░░░░█░░░░");
+    System.out.println("░░░█░░░░░░░░░░▄▄▄░░█░░░");
+    System.out.println("░░░█░░▄▄▄░░▄░░███░░█░░░");
+    System.out.println("░░░▄█░▄░░░▀▀▀░░░▄░█▄░░░");
+    System.out.println("░░░█░░▀█▀█▀█▀█▀█▀░░█░░░");
+    System.out.println("░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░");
+    System.out.println("░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░");
+    System.out.println("░██░█▄▄█▄▄▄█▄▄▄█▄▄█░██░");
+    }
 }
